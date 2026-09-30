@@ -1,4 +1,4 @@
-# Plateforme de Vote Électronique — PolyHack / ESP Commission CEE
+# Plateforme de Vote Électronique PolyHack / ESP Commission CEE
 
 Application web officielle de vote électronique développée pour le scrutin PolyHack, conçue pour être pérenne et réutilisable pour les scrutins de la Commission Électorale Étudiante (CEE) de l'École Supérieure Polytechnique (ESP).
 
